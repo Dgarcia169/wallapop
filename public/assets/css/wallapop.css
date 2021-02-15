@@ -1,0 +1,83 @@
+
+.mt25 {
+    margin-top:25px;
+}
+
+
+.mt10 {
+    margin-top:10px;
+}
+
+.f15 {
+    font-size:15px;
+}
+
+.my-radio-flex-style {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.datatable-image {
+    max-width:200px;
+    width:150px;
+    height:100px;
+}
+
+.not-displayed {
+    display:none;
+}
+
+
+#editB {
+    text-decoration: none;
+}
+
+
+#createB {
+    text-decoration: none;
+}
+
+
+.contact-left {
+    text-align:left;
+    border-bottom:1px solid;
+    border-bottom:1px solid #cccccc;
+}
+
+.contact-right {
+    text-align:right;
+    border-bottom:1px solid #cccccc;
+}
+
+.contact-righta {
+    text-align:right;
+    
+}
+
+.accordeon-position {
+    padding-top:50px;
+}
+
+.push {
+    padding-top:100px;
+}
+
+.accordeon-entry {
+    padding-top:20px;
+}
+
+.accordeon-session {
+    padding-top:25px;
+}
+
+#contact-messages {
+    padding-bottom:40px;
+    
+}
+
+select.select-control {
+    width: 400px;
+    margin:0 auto;
+    
+}
